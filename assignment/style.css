@@ -16,6 +16,7 @@
   border:2px solid white;
   background-color: gray;
   position: relative ;
+  height:510;
 }
 
 .col-sm-6, .col-md-4{
